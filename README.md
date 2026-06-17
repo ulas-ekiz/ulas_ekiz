@@ -1,7 +1,7 @@
 # ulas_ekiz
 # Hi, I'm Ulaş 👋
 
-Business Analyst & Management Information Systems Graduate
+Business Analyst & Management Information Systems
 
 ## About Me
 
